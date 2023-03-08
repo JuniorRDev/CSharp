@@ -1,0 +1,8 @@
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\bin\Debug\InstrucciónFor.exe.config
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\bin\Debug\InstrucciónFor.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\bin\Debug\InstrucciónFor.pdb
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\obj\Debug\InstrucciónFor.csproj.AssemblyReference.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\obj\Debug\InstrucciónFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\obj\Debug\InstrucciónFor.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\obj\Debug\InstrucciónFor.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\InstrucciónFor\obj\Debug\InstrucciónFor.pdb
