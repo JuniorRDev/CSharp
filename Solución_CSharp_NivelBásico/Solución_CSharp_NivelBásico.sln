@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCíclicaDoWhile",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraCíclicaWhile", "EstructuraCíclicaWhile\EstructuraCíclicaWhile.csproj", "{B3DCA5B4-7CD4-4727-8794-2B2D80DDA591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrucciónFor", "InstrucciónFor\InstrucciónFor.csproj", "{36A51083-4AE2-498B-9638-ADA7DE972751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B3DCA5B4-7CD4-4727-8794-2B2D80DDA591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3DCA5B4-7CD4-4727-8794-2B2D80DDA591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3DCA5B4-7CD4-4727-8794-2B2D80DDA591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A51083-4AE2-498B-9638-ADA7DE972751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A51083-4AE2-498B-9638-ADA7DE972751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A51083-4AE2-498B-9638-ADA7DE972751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A51083-4AE2-498B-9638-ADA7DE972751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
