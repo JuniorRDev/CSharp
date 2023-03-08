@@ -1,0 +1,8 @@
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\obj\Debug\EstructuraCíclicaWhile.csproj.AssemblyReference.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\obj\Debug\EstructuraCíclicaWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\obj\Debug\EstructuraCíclicaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\bin\Debug\EstructuraCíclicaWhile.exe.config
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\bin\Debug\EstructuraCíclicaWhile.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\bin\Debug\EstructuraCíclicaWhile.pdb
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\obj\Debug\EstructuraCíclicaWhile.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\EstructuraCíclicaWhile\obj\Debug\EstructuraCíclicaWhile.pdb
