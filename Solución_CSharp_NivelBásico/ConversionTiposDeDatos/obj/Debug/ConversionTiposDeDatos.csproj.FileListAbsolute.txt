@@ -1,0 +1,8 @@
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\bin\Debug\ConversionTiposDeDatos.exe.config
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\bin\Debug\ConversionTiposDeDatos.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\bin\Debug\ConversionTiposDeDatos.pdb
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\obj\Debug\ConversionTiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\obj\Debug\ConversionTiposDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\obj\Debug\ConversionTiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\obj\Debug\ConversionTiposDeDatos.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\ConversionTiposDeDatos\obj\Debug\ConversionTiposDeDatos.pdb

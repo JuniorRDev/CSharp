@@ -1,0 +1,8 @@
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.exe.config
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.pdb
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.AssemblyReference.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.SuggestedBindingRedirects.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.CoreCompileInputs.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.pdb

@@ -1,0 +1,8 @@
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe.config
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.pdb
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.AssemblyReference.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.CoreCompileInputs.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.pdb
