@@ -26,7 +26,7 @@ namespace CondiciónIF
             if (Sueldo <= 21000)
             {
                 Console.WriteLine("Hola " + Nombre + ", El sueldo que ingresaste es igual o menor al mínimo vital en RD");
-
+                             
             }
             else if (Sueldo > 21000 && Sueldo <= 25000)
             {
@@ -39,6 +39,13 @@ namespace CondiciónIF
                                            
 
             Console.ReadKey();
+
+            if (Sueldo != 21000)
+            {
+                Console.WriteLine("Hola " + Nombre + ", El sueldo que ingresaste es igual o menor al mínimo vital en RD");
+            }
+          
+
         }
     }
 }

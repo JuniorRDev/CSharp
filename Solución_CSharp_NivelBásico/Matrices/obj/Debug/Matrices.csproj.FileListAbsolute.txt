@@ -1,0 +1,8 @@
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\bin\Debug\Matrices.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\obj\Debug\Matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\obj\Debug\Matrices.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\Matrices\obj\Debug\Matrices.pdb
