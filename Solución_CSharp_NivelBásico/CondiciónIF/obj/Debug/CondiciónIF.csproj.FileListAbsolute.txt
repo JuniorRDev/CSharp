@@ -6,3 +6,11 @@ C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_Ni
 C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.csproj.CoreCompileInputs.cache
 C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.exe
 C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\C_Sharp\CSharp_NivelBasico\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.pdb
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\bin\Debug\CondiciónIF.exe.config
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\bin\Debug\CondiciónIF.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\bin\Debug\CondiciónIF.pdb
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.csproj.AssemblyReference.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.exe
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\CondiciónIF\obj\Debug\CondiciónIF.pdb
