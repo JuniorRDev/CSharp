@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0E532180-B35D-4A2C-97DD-5CB37D2A498E}</ProjectGuid>
+    <ProjectGuid>{162785C8-C7CE-4114-844D-B2B1E9DCB853}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Matrices</RootNamespace>
-    <AssemblyName>Matrices</AssemblyName>
+    <RootNamespace>MetodoConParametro</RootNamespace>
+    <AssemblyName>MetodoConParametro</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

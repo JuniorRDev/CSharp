@@ -1,0 +1,8 @@
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\bin\Debug\MetodoSimple.exe.config
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\bin\Debug\MetodoSimple.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\bin\Debug\MetodoSimple.pdb
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\obj\Debug\MetodoSimple.csproj.AssemblyReference.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\obj\Debug\MetodoSimple.csproj.SuggestedBindingRedirects.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\obj\Debug\MetodoSimple.csproj.CoreCompileInputs.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\obj\Debug\MetodoSimple.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoSimple\obj\Debug\MetodoSimple.pdb

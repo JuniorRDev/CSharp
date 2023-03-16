@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("Matrices")]
+[assembly: AssemblyTitle("MetodoConParametro")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Matrices")]
+[assembly: AssemblyProduct("MetodoConParametro")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("0e532180-b35d-4a2c-97dd-5cb37d2a498e")]
+[assembly: Guid("162785c8-c7ce-4114-844d-b2b1e9dcb853")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
