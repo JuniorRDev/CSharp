@@ -20,3 +20,14 @@ C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelInterme
 C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
 C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.MiPrimerFormulario.resources
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.pdb

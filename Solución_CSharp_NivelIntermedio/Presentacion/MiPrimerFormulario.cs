@@ -16,5 +16,20 @@ namespace Presentacion
         {
             InitializeComponent();
         }
+
+        private void MiPrimerFormulario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_nuevo_Click(object sender, EventArgs e)
+        {
+            txt_codigo.Text = string.Empty;
+            txt_descripcion.Text = string.Empty;
+            txt_codigo.Enabled = true;
+            txt_descripcion.Enabled = true;    
+           // txt_codigo.Select();
+            txt_codigo.Focus();
+        }
     }
 }
