@@ -18,7 +18,7 @@ namespace Matrices
              * Tener en cuenta que 3 filas y 2 columnas, empieza desde 0, ej: [3,2] seria [0,1,2/0,1] 5 espacios
              * for (int i = 0; i<Persona.GetLength(0); i++) getlength(0) y (1),
                quiere decir dime el tamaño de la dimension de la matriz  donde 0 es fila y 1 es para columna.*/
-             
+
             string[,] Persona = new string[4, 2];
             Persona[0, 0] = "Victor";
             Persona[0, 1] = "Ramos";
@@ -28,11 +28,11 @@ namespace Matrices
             Persona[2, 1] = "Arias";
             Persona[3, 0] = "Ruben ";
             Persona[3, 1] = "Osoria";
-           
-            for (int x = 0; x<Persona.GetLength(0); x++)
-              {
-                 Console.WriteLine("Mi nombre es : " + Persona[x,0]+ " y mi apellido: " + Persona[x, 1]);
-              }
+
+            for (int x = 0; x < Persona.GetLength(0); x++)
+            {
+                Console.WriteLine("Mi nombre es : " + Persona[x, 0] + " y mi apellido: " + Persona[x, 1]);
+            }
             Console.WriteLine();
             Console.WriteLine("Precione cualquier tecla para ver la Version de ChatGPT");
             Console.ReadLine();
@@ -71,6 +71,6 @@ namespace Matrices
 
             Console.ReadKey();
 
-            }
+        }
     }
 }

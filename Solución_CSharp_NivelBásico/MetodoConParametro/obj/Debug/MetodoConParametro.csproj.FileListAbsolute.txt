@@ -1,0 +1,8 @@
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\bin\Debug\MetodoConParametro.exe.config
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\bin\Debug\MetodoConParametro.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\bin\Debug\MetodoConParametro.pdb
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\obj\Debug\MetodoConParametro.csproj.AssemblyReference.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\obj\Debug\MetodoConParametro.csproj.SuggestedBindingRedirects.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\obj\Debug\MetodoConParametro.csproj.CoreCompileInputs.cache
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\obj\Debug\MetodoConParametro.exe
+C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoConParametro\obj\Debug\MetodoConParametro.pdb

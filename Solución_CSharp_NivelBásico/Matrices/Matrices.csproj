@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8DB669EC-693F-445E-B8C6-D083B0E2927B}</ProjectGuid>
+    <ProjectGuid>{0E532180-B35D-4A2C-97DD-5CB37D2A498E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Matrices</RootNamespace>
     <AssemblyName>Matrices</AssemblyName>

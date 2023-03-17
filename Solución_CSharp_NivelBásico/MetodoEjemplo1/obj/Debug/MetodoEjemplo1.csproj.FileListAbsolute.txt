@@ -1,8 +1,0 @@
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\bin\Debug\MetodoEjemplo1.exe.config
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\bin\Debug\MetodoEjemplo1.exe
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\bin\Debug\MetodoEjemplo1.pdb
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\obj\Debug\MetodoEjemplo1.csproj.AssemblyReference.cache
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\obj\Debug\MetodoEjemplo1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\obj\Debug\MetodoEjemplo1.csproj.CoreCompileInputs.cache
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\obj\Debug\MetodoEjemplo1.exe
-C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelBásico\MetodoEjemplo1\obj\Debug\MetodoEjemplo1.pdb
