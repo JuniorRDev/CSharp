@@ -16,7 +16,7 @@ namespace Presentacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MiPrimerFormulario());
+            Application.Run(new frm_encuesta());
         }
     }
 }
