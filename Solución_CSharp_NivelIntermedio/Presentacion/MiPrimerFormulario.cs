@@ -94,6 +94,12 @@ namespace Presentacion
 
         private void btn_eliminar_Click(object sender, EventArgs e)
         {
+            lst_mantenimiento.Items.Remove(lst_mantenimiento.SelectedItem);
+            MessageBox.Show("Elemento eliminado");
+        }
+
+        private void btn_reporte_Click(object sender, EventArgs e)
+        {
 
         }
     }
