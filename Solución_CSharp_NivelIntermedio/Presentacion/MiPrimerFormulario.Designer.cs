@@ -222,6 +222,7 @@
             this.lst_mantenimiento.Name = "lst_mantenimiento";
             this.lst_mantenimiento.Size = new System.Drawing.Size(259, 160);
             this.lst_mantenimiento.TabIndex = 12;
+            this.lst_mantenimiento.Click += new System.EventHandler(this.lst_mantenimiento_Click);
             // 
             // MiPrimerFormulario
             // 

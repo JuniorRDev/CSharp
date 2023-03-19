@@ -24,8 +24,8 @@ namespace Presentacion
 
         private void btn_nuevo_Click(object sender, EventArgs e)
         {
-            txt_codigo.Text = string.Empty;
-            txt_descripcion.Text = string.Empty;
+            txt_codigo.Text = "";
+            txt_descripcion.Text = "";
 
             grb_mantenimiento.Enabled = true;
 
@@ -49,8 +49,8 @@ namespace Presentacion
 
         private void btn_cancelar_Click(object sender, EventArgs e)
         {
-            txt_codigo.Text += string.Empty;
-            txt_descripcion.Text += string.Empty;
+            txt_codigo.Text = "";
+            txt_descripcion.Text = "";
 
             grb_mantenimiento.Enabled=false;
 
@@ -77,14 +77,14 @@ namespace Presentacion
             //en el lst_mantenimiento
 
             string registro;
-            registro = txt_codigo.Text + " | " + txt_descripcion.Text;
+            registro = txt_codigo.Text.Trim() +" | " + txt_descripcion.Text.Trim();
             
             lst_mantenimiento.Items.Add(registro);
 
             MessageBox.Show("Datos Guardados");
 
-            txt_codigo.Text += string.Empty;
-            txt_descripcion.Text += string.Empty;
+            txt_codigo.Text = "";
+            txt_descripcion.Text = "";
 
             grb_mantenimiento.Enabled = false;
 
@@ -101,6 +101,21 @@ namespace Presentacion
         private void btn_reporte_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void lst_mantenimiento_Click(object sender, EventArgs e)
+        {
+            //
+            string textoSeleccionado;
+            int longitudTexto;
+
+            textoSeleccionado = lst_mantenimiento.SelectedItem.ToString().Trim();//trim para eliminar espacios de los lados
+            longitudTexto = textoSeleccionado.Length;
+
+            txt_codigo.Text = textoSeleccionado.Substring(0,3); //Substraer la longitud de esta variable en este caso le pusimos maxlength 3
+            txt_descripcion.Text = textoSeleccionado.Substring(6, longitudTexto - 6);//Substraer la el texto de la descripcion, tomando en cuenta que
+                                                                                     //cuantos elementos hay antes de llegar a esa longitud y restandolo así mismo
+            
         }
     }
 }

@@ -32,3 +32,4 @@ C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_
 C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.pdb
 C:\Users\monitoreo\Desktop\Carmelo Rosario\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.frm_encuesta.resources
+C:\Users\Junior\Desktop\Programacion\Cursos\CSharp\Solución_CSharp_NivelIntermedio\Presentacion\obj\Debug\Presentacion.frm_encuesta.resources
