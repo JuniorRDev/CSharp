@@ -42,6 +42,7 @@
             this.btn_eliminar = new System.Windows.Forms.Button();
             this.btn_actualizar = new System.Windows.Forms.Button();
             this.btn_nuevo = new System.Windows.Forms.Button();
+            this.lst_mantenimiento = new System.Windows.Forms.ListBox();
             this.grb_mantenimiento.SuspendLayout();
             this.grb_botones_principales.SuspendLayout();
             this.SuspendLayout();
@@ -104,6 +105,7 @@
             this.btn_guardar.TabIndex = 9;
             this.btn_guardar.Text = "Guardar";
             this.btn_guardar.UseVisualStyleBackColor = false;
+            this.btn_guardar.Click += new System.EventHandler(this.btn_guardar_Click);
             // 
             // grb_mantenimiento
             // 
@@ -179,6 +181,7 @@
             this.btn_eliminar.Text = "Eliminar";
             this.btn_eliminar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_eliminar.UseVisualStyleBackColor = false;
+            this.btn_eliminar.Click += new System.EventHandler(this.btn_eliminar_Click);
             // 
             // btn_actualizar
             // 
@@ -211,12 +214,21 @@
             this.btn_nuevo.UseVisualStyleBackColor = false;
             this.btn_nuevo.Click += new System.EventHandler(this.btn_nuevo_Click);
             // 
+            // lst_mantenimiento
+            // 
+            this.lst_mantenimiento.FormattingEnabled = true;
+            this.lst_mantenimiento.Location = new System.Drawing.Point(424, 41);
+            this.lst_mantenimiento.Name = "lst_mantenimiento";
+            this.lst_mantenimiento.Size = new System.Drawing.Size(259, 160);
+            this.lst_mantenimiento.TabIndex = 12;
+            // 
             // MiPrimerFormulario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(860, 349);
+            this.ClientSize = new System.Drawing.Size(692, 318);
+            this.Controls.Add(this.lst_mantenimiento);
             this.Controls.Add(this.grb_botones_principales);
             this.Controls.Add(this.grb_mantenimiento);
             this.Name = "MiPrimerFormulario";
@@ -244,5 +256,6 @@
         private System.Windows.Forms.Button btn_eliminar;
         private System.Windows.Forms.Button btn_actualizar;
         private System.Windows.Forms.Button btn_nuevo;
+        private System.Windows.Forms.ListBox lst_mantenimiento;
     }
 }

@@ -70,5 +70,31 @@ namespace Presentacion
             grb_botones_principales.Enabled=true;
 
         }
+
+        private void btn_guardar_Click(object sender, EventArgs e)
+        {
+            //Cuando precione guardar, quiero que los datos de codigo y descripcion se guarden
+            //en el lst_mantenimiento
+
+            string registro;
+            registro = txt_codigo.Text + " | " + txt_descripcion.Text;
+            
+            lst_mantenimiento.Items.Add(registro);
+
+            MessageBox.Show("Datos Guardados");
+
+            txt_codigo.Text += string.Empty;
+            txt_descripcion.Text += string.Empty;
+
+            grb_mantenimiento.Enabled = false;
+
+            grb_botones_principales.Enabled = true;
+
+        }
+
+        private void btn_eliminar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
